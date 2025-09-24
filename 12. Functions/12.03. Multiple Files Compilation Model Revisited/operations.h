@@ -1,0 +1,1 @@
+int increment_multiply(int a, int b);
